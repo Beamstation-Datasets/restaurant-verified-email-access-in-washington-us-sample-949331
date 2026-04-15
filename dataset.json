@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "email",
+  "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
+  "config_name": "Restaurant Verified Email Access in Washington, US",
+  "export_job_id": "516dfd46-0131-492d-8150-c7ad52873a25",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 949331,
+  "location_name": "Washington",
+  "location_type": "state",
+  "repo_name": "restaurant-verified-email-access-in-washington-us-sample-949331",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/949331/beamstation_949331_restaurants-us-wa_SAMPLE_DIST.csv",
+  "sample_pct": 14.38,
+  "sample_records": 335,
+  "sample_sha256": "55d95cd60a981a2f5c85bf05fa6ed9944b24513bf6b0c63ee6f9ecf210df8414",
+  "sample_size_bytes": 1339119,
+  "total_records": 2330,
+  "updated_at": "2026-04-01T01:28:26.291702+00:00"
+}
