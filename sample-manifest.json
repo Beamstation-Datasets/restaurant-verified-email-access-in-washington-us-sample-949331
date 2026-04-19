@@ -1,12 +1,12 @@
 {
-  "export_job_id": "516dfd46-0131-492d-8150-c7ad52873a25",
+  "export_job_id": "e2d9c137-1eb6-4cbb-b837-0d25074d9e95",
   "id_short": 949331,
-  "published_at": "2026-04-15T19:46:42Z",
+  "published_at": "2026-04-19T07:05:53Z",
   "repo_name": "restaurant-verified-email-access-in-washington-us-sample-949331",
   "sample_asset_name": "beamstation_949331_restaurants-us-wa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/949331/beamstation_949331_restaurants-us-wa_SAMPLE_DIST.csv",
   "sample_records": 335,
   "sample_sha256": "55d95cd60a981a2f5c85bf05fa6ed9944b24513bf6b0c63ee6f9ecf210df8414",
   "sample_size_bytes": 1339119,
-  "total_records": 2330
+  "total_records": 3352
 }
