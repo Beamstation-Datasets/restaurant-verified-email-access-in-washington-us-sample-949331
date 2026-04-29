@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Washington, US
 
-> Free BeamStation sample export with 303 rows and masked direct-contact fields.
+> Free BeamStation sample export with 381 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `949331` |
 | Location | Washington |
 | Category | Restaurants |
-| Full dataset size | 3,037 records |
-| Free sample size | 303 records (9.98%) |
-| Last export | 2026-04-22T09:07:28.347560+00:00 |
+| Full dataset size | 3,813 records |
+| Free sample size | 381 records (9.99%) |
+| Last export | 2026-04-29T10:45:42.325905+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-washington-us-sample-949331/releases/download/sample-latest/beamstation_949331_restaurants-us-wa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
